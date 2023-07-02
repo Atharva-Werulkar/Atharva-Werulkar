@@ -38,7 +38,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-werulkar&" alt="atharva-werulkar" /></p>
 
-<div><img align="center" alt="coding1" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_-
+<div><img align="center" alt="coding1" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"></div>
+
+       
 <!---
 Atharva-Werulkar/Atharva-Werulkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
