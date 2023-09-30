@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharvawerulkar" target="blank"><img src="https://img.shields.io/twitter/follow/atharvawerulkar?logo=twitter&style=for-the-badge" alt="atharvawerulkar" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Buddy](https://github.com/Atharva-Werulkar/chat_buddy.git)
+- 🔭 I’m currently working on [ARVR in Flutter](https://github.com/Atharva-Werulkar/ARVR-in-Flutter.git)
 
 - 🌱 I’m currently learning **C, C++, Python and more about Flutter**
 
