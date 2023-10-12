@@ -39,7 +39,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-werulkar&" alt="atharva-werulkar" /></p>
 
 
-Hacktoberfest 2k23
+<h3 align="left">Hacktoberfest 2k23:</h3>
+
 [![An image of @atharvawerulkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvawerulkar)](https://holopin.io/@atharvawerulkar)
 
 
