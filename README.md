@@ -39,6 +39,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-werulkar&" alt="atharva-werulkar" /></p>
 
 
+## GitHub Profile Summary Card
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva-Werulkar&theme=transparent">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent" alt="Profile Details">
+</a>
+
+
 <h3 align="left">Hacktoberfest 2k23:</h3>
 
 [![An image of @atharvawerulkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvawerulkar)](https://holopin.io/@atharvawerulkar)
