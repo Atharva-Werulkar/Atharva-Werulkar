@@ -41,7 +41,7 @@
 
 ## GitHub Profile Summary Card
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva-Werulkar&theme=transparent">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva-Werulkar&theme=transparent" alt="Profile Details">
 </a>
 
 
