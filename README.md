@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **werulkaratharva@gmail.com**
 
-- ⚡ Fun fact **Always ready for new Challenges.**
+- ⚡ **Always ready for new Challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
