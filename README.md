@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/atharvawerulkar" target="blank"><img src="https://img.shields.io/twitter/follow/atharvawerulkar?logo=twitter&style=for-the-badge" alt="atharvawerulkar" /></a> </p>
 
 - 🌴 LinkTree Profile [Atharva Werulkar](https://linktr.ee/AtharvaWerulkar)
 
