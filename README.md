@@ -13,7 +13,7 @@
 
 - 📱 Bento Profile [Atharva Werulkar](https://bento.me/atharvawerulkar)
 
-- 🔭 I’m currently working on [ARVR in Flutter](https://github.com/Atharva-Werulkar/ARVR-in-Flutter.git)
+- 🔭 I’m currently working on [GenAi in Flutter]
 
 - 🌱 I’m currently learning **C, C++, Python and more about Flutter**
 
