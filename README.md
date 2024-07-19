@@ -13,7 +13,7 @@
 
 - 📱 Bento Profile [Atharva Werulkar](https://bento.me/atharvawerulkar)
 
-- 🟢 Peerlist Profile [![Peerlist](https://github-readme-badge.peerlist.io/api/atharvawerulkar?style=social)](https://peerlist.io/atharvawerulkar)
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/atharvawerulkar?style=social)](https://peerlist.io/atharvawerulkar)
 
 - 🔭 I’m currently working on **GenAi in Flutter**
 
